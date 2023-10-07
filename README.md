@@ -50,6 +50,8 @@ Aqui estão algumas capturas de tela do meu aplicativo:
 ## **Detalhes do Filme(DetailsScreen):**
   
  ![detailsScreen](https://github.com/pedrovictormotasilva/flutter-films/assets/92291111/642811c2-6046-46d8-8749-886c3620fec7)
+ ![detailsScreen](https://github.com/pedrovictormotasilva/flutter-films/assets/92291111/07c1ecc1-2b26-412b-a7ed-89cd85705aeb)
+
 
 
 
