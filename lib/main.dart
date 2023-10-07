@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tmdbapi/widgets/colors.dart';
-import 'package:tmdbapi/widgets/screens/home_screen.dart';
+import 'package:tmdbapi/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
