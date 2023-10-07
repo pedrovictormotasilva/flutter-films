@@ -1,12 +1,12 @@
 # FlutterFlix 📱
 
-**Nome do Aplicativo** é um aplicativo em Flutter e Dart que utiliza a API TMDB para criar um aplicativo de filmes. O aplicativo apresenta uma tela inicial com um carrossel animado de filmes populares e permite aos usuários acessar detalhes de cada filme.
+**FlutFlix** é um aplicativo em Flutter e Dart que utiliza a API TMDB para criar um aplicativo de filmes. O aplicativo apresenta uma tela inicial com um carrossel animado de filmes populares e permite aos usuários acessar detalhes de cada filme.
 
 ![Demonstração do Aplicativo](link_para_imagem_de_demo.gif)
 
 ## Dependências Principais 🚀
 
-- **google_fonts**: A dependência `google_fonts` permite que você use facilmente fontes do Google em seu aplicativo Flutter. Isso é útil para melhorar a estética e a legibilidade do texto em seu aplicativo, fornecendo uma ampla variedade de fontes personalizáveis.
+- **google_fonts**: A dependência `google_fonts` permite que você use facilmente fontes do Google em seu aplicativo Flutter. Isso é útil para melhorar a estética e a legibilidade do texto no APP, fornecendo uma ampla variedade de fontes personalizáveis.
 
 - **http**: A dependência `http` é essencial para fazer solicitações HTTP a servidores externos, como a API TMDB. Ela permite que seu aplicativo busque informações atualizadas sobre filmes e outros recursos da internet.
 
