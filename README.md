@@ -23,7 +23,7 @@ Antes de executar o aplicativo, certifique-se de ter instalado o Flutter e suas 
 1. Clone o repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/pedrovictormotasilva/flutter-films.git
 
 ```
 2. Navegue até o diretório do projeto:
